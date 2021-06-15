@@ -14,8 +14,11 @@ Tools used - Remix, Moralis
  ![](images/Endpoints.JPG)
  
 5) You will need to approve and you'll see a Testnet Polygon Mumbai is added to your Metamask
-6) Same thing for mainnet too
-7) Go to https://remix.ethereum.org/ and create a file Token.sol by right clicking on Contract folder
+
+  ![](images/Testnet.JPG)
+  
+7) Same thing for mainnet too
+8) Go to https://remix.ethereum.org/ and create a file Token.sol by right clicking on Contract folder
 
  ![](images/Token.JPG)
  
@@ -43,6 +46,18 @@ Tools used - Remix, Moralis
 13) A notification will appear on metamask which will ask you to approve the contract
 make sure the gas fees is sufficient with the amount of Matic
 
-![](images/Web3again.JPG)
+ ![](images/Web3again.JPG)
 
-14) 
+14) Click on Metamask extension -> activity tab -> contract deployment -> click the yellow button as below
+
+ ![](images/ContractDeploy.JPG)
+
+15) It will bring you to a testnet site and copy the yellow address
+
+  ![](images/Info.JPG)
+
+16) Go to metamask extension -> click on assets tab -> add token -> paste the address -> click next -> add token
+
+ ![](images/LCN.JPG)
+ 
+17) Now you have 1 million LuneCoin on a Polygon Network because we set that whoever deploy the smart contracts will get 1 million worth of LuneCoin

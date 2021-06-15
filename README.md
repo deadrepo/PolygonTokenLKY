@@ -31,21 +31,24 @@ Tools used - Remix, Moralis
 
  ![](images/Compiler.JPG)
 
-11) Go to "https://faucet.matic.network/" and copy your address on metamask. Submit and confirm. This is to send MATIC token to your metamask
- below is the address
+11) Go to "https://faucet.matic.network/" and copy your address on metamask. Submit and confirm. This is to send MATIC token to your metamask account
+
+ Below is the address that you need used. For mainnet you need to buy real MATIC on binance or anything and send it to the address on your account like below
  
  ![](images/address.JPG)
  
  ![](images/Faucet.JPG)
 
  
-12) Go to Deploy and Run Transaction Tab and Deploy the contract
- make sure the Contract is Token.sol that you want to deploy
+12) Go to Deploy and Run Transaction Tab and Deploy the contract.
+
+ Make sure the Contract is Token.sol that you want to deploy
  
  ![](images/Web3.JPG)
  
 13) A notification will appear on metamask which will ask you to approve the contract
-make sure the gas fees is sufficient with the amount of Matic
+
+Make sure the gas fees is sufficient with the amount of MATIC that you have
 
  ![](images/Web3again.JPG)
 
@@ -53,7 +56,7 @@ make sure the gas fees is sufficient with the amount of Matic
 
  ![](images/ContractDeploy.JPG)
 
-15) It will bring you to a testnet site and copy the yellow address
+15) It will bring you to a testnet site and copy the yellow address like below
 
   ![](images/Info.JPG)
 
@@ -61,4 +64,6 @@ make sure the gas fees is sufficient with the amount of Matic
 
  ![](images/LCN.JPG)
  
-17) Now you have 1 million LuneCoin on a Polygon Network because we set that whoever deploy the smart contracts will get 1 million worth of LuneCoin
+17) Now you have 1 million worth of LuneCoin on a Polygon Network because we set that whoever deploy the smart contracts will be give  a million worth of LuneCoin
+
+18) ikmxleo - LuneKey 2021

@@ -66,4 +66,4 @@ Make sure the gas fees is sufficient with the amount of MATIC that you have
  
 17) Now you have 1 million worth of LuneCoin on a Polygon Network because we set that whoever deploy the smart contracts will be give  a million worth of LuneCoin
 
-18) ikmxleo - LuneKey 2021
+18) deadrepo - LuneKey 2021
